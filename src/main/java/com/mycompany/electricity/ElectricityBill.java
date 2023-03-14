@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package com.mycompany.electricity;
 
 import java.awt.print.PrinterException;
@@ -9,10 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author user
- */
+
 public class ElectricityBill extends javax.swing.JFrame {
 
   
